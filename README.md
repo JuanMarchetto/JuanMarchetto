@@ -10,7 +10,6 @@ Building open-source AI infrastructure and systems software in Rust.
 
 35,000 lines of Rust | 25 WGSL GPU compute shaders | Training on AMD Radeon 780M (2GB VRAM) at 11.8 tokens/sec
 
-*Applying for NGI Zero Commons Fund (EU) to publish benchmarks and scale the architecture.*
 
 ## Other projects
 
