@@ -14,7 +14,3 @@ Building AI agent tooling, Solana apps, and systems software in Rust.
 ## Skills for AI agents
 
 AI coding assistants are more useful when they can call on specialized skills. The [agent-skills](https://github.com/JuanMarchetto/agent-skills) collection extends tools like Claude Code with multi-agent evaluation panels, CI/CD pipelines, browser automation, mobile testing, and error-memory systems. Each skill is a drop-in module -- install it and the agent gains a new capability.
-
----
-
-[X (@marchedev)](https://x.com/marchedev) | [bondum.xyz](https://bondum.xyz)
