@@ -1,4 +1,4 @@
-shipping production systems. 2× CTO & Co-founder in crypto/fintech. Now helping seed → Series A teams build stablecoin rails, Solana programs, and AI agent systems — without the overhead of a full-time CTO.
+12+ years shipping production systems. 2× CTO & Co-founder in crypto/fintech. Now helping seed → Series A teams build stablecoin rails, Solana programs, and AI agent systems — without the overhead of a full-time CTO.
 
   📅 **Currently accepting 1-2 new engagements for Q2 2026** → [Book an intro call](https://calendly.com/your-link) · [LinkedIn](https://linkedin.com/in/your-profile)
 
