@@ -1,55 +1,29 @@
-  # Juan Patricio Marchetto — Fractional CTO
+# Juan Patricio Marchetto
 
-  **Stablecoin & Agent Commerce Infrastructure · Rust / Solana / AI-native**
+Senior software engineer. I build money infrastructure in Rust and ship LLM agent systems that run in production. 10+ years writing software for a living, 5+ of them in Rust, most of that on Solana. Italian (EU) citizen based in Buenos Aires, relocating to Madrid. Available full-time.
 
-12+ years shipping production systems. 2× CTO & Co-founder in crypto/fintech. Now helping seed → Series A teams build stablecoin rails, Solana programs, and AI agent systems — without the overhead of a full-time CTO.
+**Now:** founding engineer at Nora Finance, building cross-border payment rails and stablecoin settlement in Rust (Tokio, PostgreSQL), plus the TypeScript/React front ends on top. I also build the team's agent tooling: MCP servers and eval-gated agent workflows.
 
-  📅 **Currently accepting 1-2 new engagements for Q2 2026** → [Book an intro call](https://calendly.com/juanpatriciomarchetto/30min) · [LinkedIn](https://www.linkedin.com/in/marchettojuan/)
+**Before:** co-founded two startups. At [Oro.finance](https://oro.finance) I designed and shipped a gold-backed stablecoin protocol on Solana as CTO, raised $1.5M, and the product is still live. At Bondum (CTO, part-time today) I took our first enterprise customer from requirements to a rollout that reached 8,000 users.
 
-  ---
+## Code
 
-  ## What I've built
+- [noricum](https://github.com/JuanMarchetto/noricum). C-to-Rust migration CLI: LLM agents translate C into Rust with zero `unsafe`, and a byte-exact differential-testing harness verifies every function against the original. 38K LOC, 7 crates, 435+ automated tests.
+- [AIDEEN](https://github.com/SergioAriel/aideen), co-created with [SergioAriel](https://github.com/SergioAriel). AI inference and training engine in Rust: DEQ and Mamba architectures on consumer GPUs via WebGPU, no CUDA. 35K LOC, 25 WGSL compute shaders.
+- [veedor](https://github.com/JuanMarchetto/veedor). Escrow that releases on proof: funds move only against evidence a verifier signed for that job and that spec. Settlement for agentic commerce.
+- [var-settlement](https://github.com/JuanMarchetto/var-settlement). Prediction-market settlement on Solana with Kani-proven resolution logic. Built for the Superteam World Cup hackathon.
+- [agent-skills](https://github.com/JuanMarchetto/agent-skills). 25+ skills for AI coding agents: review panels, eval pipelines, browser automation. I run them every day.
+- [Soda](https://github.com/JuanMarchetto/soda). Solana IDL code generator. Hyperdrive hackathon honorary mention.
+- [Lava](https://github.com/3uild-3thos/lava), co-created. Test-suite tooling for Solana/Anchor programs.
 
-  **Co-founder & CTO — [Oro.finance](https://oro.finance)** (preseed, $1.5M raised)
-  Architected and built from scratch: gold-backed stablecoin + liquid staking protocol on Solana. Product live in production.
+Contributions merged in [Sycamore](https://github.com/sycamore-rs/sycamore) and [Turtle.rs](https://github.com/sunjay/turtle). GitHub Arctic Code Vault contributor.
 
-  **Co-founder & CTO — [Bondum](https://github.com/JuanMarchetto/bondum)**
-  Mobile-first crypto loyalty infrastructure on Solana. Bootstrapped. First enterprise client onboarded 8,000 users.
+## Teaching
 
-  **Founding-level engineer — Brazilian stablecoin startup** (Series A)
-  Leading Rust + Solana infrastructure in production. Settlement rails, compliance tooling, AI-powered ops automation.
+Three cohorts of senior engineers at Turbin3: ownership, lifetimes, async, SVM internals, security. Two years before that as a full-stack professor at Digital House, teaching career changers their first React and Node.
 
-  ---
+## Contact
 
-  ## How I help
+[juanpatriciomarchetto@gmail.com](mailto:juanpatriciomarchetto@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marchettojuan/) · [X](https://x.com/marchedev) · [Telegram](https://t.me/Marche)
 
-  - Stablecoin & payment rails (PIX, USDC, cross-border settlement)
-  - Solana programs in Rust (Anchor + Pinocchio) at production quality
-  - AI agent orchestration for regulated fintech (MCP, Claude Code, Vercel AI SDK)
-  - Engineering hiring, architecture review, technical due diligence
-
-  ---
-
-  ## Engagement
-
-  - 15–20 hrs/week retainer, 3-month minimum
-  - Trial: 2-week sprint ($10K) with concrete deliverable
-  - Cap: 2 active clients
-  - Billing via Delaware LLC (USD wire, ACH, USDC)
-
-  ---
-
-  ## Recent technical work
-
-  - **[noricum](https://github.com/JuanMarchetto/noricum)** — C-to-Rust migration CLI with LLM-powered differential testing (38K LOC Rust, 7 crates, 435+ tests)
-  - **[agent-skills](https://github.com/JuanMarchetto/agent-skills)** — 25+ skills for AI coding assistants
-  - **[truss](https://github.com/JuanMarchetto/truss)** — Fast GitHub Actions workflow validator in Rust
-  - **AIDEEN** (in progress) — Open-source AI inference/training engine in Rust. Deep Equilibrium + Mamba-style memory. Runs on consumer GPUs via WebGPU. 35K LOC Rust, 25 WGSL compute shaders.
-
-  ---
-
-  ## Background
-
-  Argentine national, Italian citizen. Bilingual native English / Spanish. Based in Buenos Aires, working with US/EU/LATAM clients. Arctic Code Vault Contributor.
-
-  DMs open on [X/Twitter](https://x.com/marchedev).
+Looking for: senior/staff IC, founding engineer, or forward-deployed roles. English and Spanish.
