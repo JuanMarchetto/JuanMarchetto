@@ -9,6 +9,7 @@ Senior software engineer. I build money infrastructure in Rust and ship LLM agen
 ## Code
 
 - [noricum](https://github.com/JuanMarchetto/noricum). C-to-Rust migration CLI: LLM agents translate C into Rust with zero `unsafe`, and a byte-exact differential-testing harness verifies every function against the original. 38K LOC, 7 crates, 435+ automated tests.
+- [aduana](https://github.com/JuanMarchetto/aduana). Eval harness for LLM agents, in Python: golden datasets, LLM-as-judge, and tool-call transcript evals for MCP-based agents, with a pytest plugin. 119 automated tests across Python 3.12–3.14.
 - [AIDEEN](https://github.com/SergioAriel/aideen), co-created with [SergioAriel](https://github.com/SergioAriel). AI inference and training engine in Rust: DEQ and Mamba architectures on consumer GPUs via WebGPU, no CUDA. 35K LOC, 25 WGSL compute shaders.
 - [veedor](https://github.com/JuanMarchetto/veedor). Escrow that releases on proof: funds move only against evidence a verifier signed for that job and that spec. Settlement for agentic commerce.
 - [var-settlement](https://github.com/JuanMarchetto/var-settlement). Prediction-market settlement on Solana with Kani-proven resolution logic. Built for the Superteam World Cup hackathon.
