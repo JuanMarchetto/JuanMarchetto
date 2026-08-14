@@ -1,6 +1,6 @@
 # Juan Patricio Marchetto
 
-Senior software engineer. I build money infrastructure in Rust and ship LLM agent systems that run in production. 10+ years writing software for a living, 5+ of them in Rust, most of that on Solana. Italian (EU) citizen based in Buenos Aires, relocating to Madrid. Available full-time.
+Senior software engineer. I build money infrastructure in Rust and ship LLM agent systems that run in production. 10+ years writing software for a living, 5+ of them in Rust, most of that on Solana. Italian (EU) citizen based in Buenos Aires (GMT-3) — remote-first, open to relocating anywhere in the EU. Available full-time.
 
 **Now:** founding engineer at Nora Finance, building cross-border payment rails and stablecoin settlement in Rust (Tokio, PostgreSQL), plus the TypeScript/React front ends on top. I also build the team's agent tooling: MCP servers and eval-gated agent workflows.
 
